@@ -18,5 +18,5 @@ Hi there! I'm Bhuvanesh K, a passionate **Data Analyst / Business Analyst** comm
 
 ## Get in Touch
 
-- 🌐 Connect with me on LinkedIn [https://www.linkedin.com/in/thebhuvaneshk/]
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/thebhuvaneshk/)
 - 📫 For inquiries, drop me an email at: bhuvan7kumar@gmail.com
