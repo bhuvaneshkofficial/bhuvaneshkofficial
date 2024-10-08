@@ -11,7 +11,7 @@ Hi there! I'm Bhuvanesh K, a passionate **Data Analyst / Business Analyst** comm
 ## What You'll Find Here
 
 - **Projects**: Dive into my work, where I blend data analysis and visualization with real-world business needs:
-  - 📈 **[Walmart Sales Data Analysis]**: A SQL project analyzing Walmart's sales data, uncovering trends, and generating insights for branch performance and customer behavior.
+  - 📈 **[Walmart Sales Data Analysis](https://github.com/bhuvaneshkofficial/Walmart-Sales-Analysis)**: A SQL project analyzing Walmart's sales data, uncovering trends, and generating insights for branch performance and customer behavior.
   
 - **Certifications**: Explore my qualifications, including Advanced Excel and Data Analytics certifications.  
 - **Experience**: I have worked as a Financial Research Analyst, and my professional journey includes experience with key industry leaders.
